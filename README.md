@@ -1,8 +1,8 @@
 # portifolio
 
-Portifolio do desenvolvedor
+Portifolio do Desenvolvedor
 
 ## Tarefas
 
-O controle das atualizações desse projeto será armazenado no GitHub - eduardofontana
+Armazenado no GitHub - eduardofontana
 
